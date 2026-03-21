@@ -29,6 +29,13 @@ body {
     text-align: center;
     margin: 25px;
 }
+.tagline {
+    margin: 0;
+    font-size: 18px;
+    color: #ffd54f;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
 
 .star {
     font-size: 26px;
