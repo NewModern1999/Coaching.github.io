@@ -125,14 +125,14 @@ body {
 }
 
 .big-link a {
-    font-size: 40px;
+    font-size: 100px;
     font-weight: bold;
-    color: green;
+    color: red;
     text-decoration: none;
 }
 
 .big-link a:hover {
-    color: darkblue;
+    color: green;
 }
 /* FOOTER */
 footer {
