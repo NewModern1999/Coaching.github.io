@@ -116,6 +116,24 @@ body {
     object-fit: cover;
 }
 
+
+
+/* BIG LINK */
+.big-link {
+    text-align: center;
+    margin: 20px;
+}
+
+.big-link a {
+    font-size: 28px;
+    font-weight: bold;
+    color: red;
+    text-decoration: none;
+}
+
+.big-link a:hover {
+    color: darkblue;
+}
 /* FOOTER */
 footer {
     background: #212121;
