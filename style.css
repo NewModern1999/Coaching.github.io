@@ -121,11 +121,11 @@ body {
 /* BIG LINK */
 .big-link {
     text-align: center;
-    margin: 20px;
+    margin: 40px;
 }
 
 .big-link a {
-    font-size: 28px;
+    font-size: 40px;
     font-weight: bold;
     color: red;
     text-decoration: none;
